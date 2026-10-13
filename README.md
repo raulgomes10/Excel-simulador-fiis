@@ -30,20 +30,25 @@ A estruturada da planilha é organizada em cinco etapas principais para garantir
 
 ##  Percentuais de cada perfil de Investidor:
 Conservador
+
 1.	PAPEL: 35%
 2.	TIJOLO: 55%
 3.	HÍBRIDOS: 5%
 4.	FOFs: 5%
 5.	DESENVOLVIMENTO: 0%
 6.	HOTELARIAS: 0%
+
 Moderado
+
 1.	PAPEL: 30%
 2.	TIJOLO: 37%
 3.	HÍBRIDOS: 10%
 4.	FOFs: 7%
 5.	DESENVOLVIMENTO: 8%
 6.	HOTELARIAS: 8%
+   
 Agressivo
+
 1.	PAPEL: 25%
 2.	TIJOLO: 30%
 3.	HÍBRIDOS: 15%
